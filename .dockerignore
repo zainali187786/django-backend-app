@@ -1,0 +1,9 @@
+mysql-data/
+.git/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+venv/
+frontend/node_modules/
